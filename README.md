@@ -1,1 +1,1 @@
-<img ser="job.gif" />
+<img src="job.gif" />
